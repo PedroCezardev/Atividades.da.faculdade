@@ -1,7 +1,8 @@
 //Estudando vetores no portugol studio, lígica de programação.
 programa
 {
-	real notas[4]
+	
+real notas[4]
 	real minhaNota
 	
 	funcao inicio()
@@ -15,14 +16,3 @@ programa
 //Algoritmo que usa vetor e variável como exemplo e demonstração.
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 88; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {minhaNota, 5, 6, 9}-{notas, 4, 7, 5};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
