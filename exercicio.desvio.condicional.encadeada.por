@@ -1,6 +1,7 @@
 programa
 {
-	real n1, n2
+	
+real n1, n2
 	real media
 	funcao inicio()
 	{
@@ -10,7 +11,8 @@ programa
 		escreva("Entre com a segunda nota: ")
 		leia(n2)
 	
-		media = (n1 + n2) / 2
+		media = (n1 + n2) 
+/ 2
 	
 	   se (media >= 7.0) {
 		escreva("Aprovado \n")
@@ -32,14 +34,3 @@ programa
 //"recuperação", se a media for maior ou igual a 5.0 e menor que 7.0
 //"reprovado", se a média ficar abaixo de 5.0.
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 667; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
