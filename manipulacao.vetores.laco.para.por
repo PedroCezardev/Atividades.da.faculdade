@@ -4,7 +4,8 @@
 //logo após, exibir também as notas usadas no cálculo da média.
 programa
 {
-	real soma, media
+	
+real soma, media
 	inteiro i
 	real notas[4]
 	
@@ -26,14 +27,3 @@ programa
 		}
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 606; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {notas, 9, 6, 5};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
