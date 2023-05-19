@@ -1,5 +1,7 @@
+//Exercício sobre operadores lógicos, lógica de programação 
 programa
-{caracter j1, j2, j3
+{
+caracter j1, j2, j3
      logico estado
 	
 	funcao inicio()
@@ -8,7 +10,7 @@ programa
 	j2 = 'f'
 	j3 = 'f'
 
-	escreva("Janla 01 aberta? ", j1 == 'a')
+	escreva("Janela 01 aberta? ", j1 == 'a')
 
 	estado = j1 == 'a' ou j2 == 'a' ou j3 == 'a'
 
@@ -19,16 +21,5 @@ programa
 	escreva("\n Todas as janelas abertas? " + estado)
 	
   }
-}
-	
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 386; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
+
+}
